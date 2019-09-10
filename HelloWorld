@@ -2,8 +2,8 @@ public class HelloWorld {
 
     System.out.println("Hello World!");
     
-    x = 20;
-    y = 30;
-    z = 10;
+    x = 30;
+    y = 25;
+    z = 15;
     
     }

@@ -4,6 +4,9 @@ public class HelloWorld {
     
     x = 30;
     y = 25;
-    z = 15;
+    z = 15;	
+
+	//code does not do anything
+	
     
     }
